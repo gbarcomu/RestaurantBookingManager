@@ -1,0 +1,320 @@
+Soraya#Saez de Santamaria#Madrid#20#3
+Atrio
+Oquendo
+Figon
+Susana#Díaz Pacheco#Sevilla#2#2
+Figon
+Atrio
+Leire#Pajin#Bilbao#4#2
+Atrio
+Torre de Sande
+Antonio#Alcantara#Albacete#7#2
+El Puchero
+Casa Mijhaeli
+Willy#Toledo#Madrid#30#1
+Palacio de los Golfines
+Pepa#Bueno#Madrid#4#2
+Atrio
+Torre de Sande
+Carmen#Martínez#Santander#2#1
+Atrio
+Belen#Esteban#Madrid#3#5
+La Minerva
+San Juan
+Hornos 25
+La Cacharreria
+El Puchero
+Luz#Cuesta Caro#Segovia#6#3
+El Raco de Sanguino
+Palacio de los Golfines
+El Paladar de Felisa
+Miguel#Marco Gol#Toledo#4#3
+El Puchero
+Palacio de los Golfines
+El Paladar de Felisa
+Julio#Conesa Cara#Albacete#5#3
+Hornos 25
+Palacio de los Golfines
+El Paladar de Felisa
+Adrián#Puente Madera#Toledo#3#3
+Atrio
+San Juan
+Figon
+José#Mourinho#Madrid#36#2
+Torre de Sande
+Palacio de los Golfines
+José#Blanco#Pontevedra#12#3
+La Minerva
+La Cacharreria
+San Juan
+Risto#Mejide#Barcelona#22#8
+El Puchero
+El Raco de Sanguino
+El Paladar de Felisa
+Oquendo
+La Tahona
+Torre de Sande
+Palacio de los Golfines
+Atrio
+Jose Manuel#Lara Bosch#Barcelona#50#2
+Atrio
+Torre de Sande
+Cesar#Alierta Izuel#Zaragoza#6#3
+El Raco de Sanguino
+Oquendo
+Torre de Sande
+Juan#Roig Alfonso#Valencia#10#3
+Atrio
+Figon
+Torre de Sande
+Felix#Llanos#Valladolid#5#3
+Atrio
+Torre de Sande
+Figon
+Sonia#Castedo#Alicante#5#3
+Oquendo
+Torre de Sande
+Figon
+Ricardo#Costa#Valencia#15#4
+El Raco de Sanguino
+Torre de Sande
+Figon
+La Cacharreria
+Jaume#Matas#Baleares#12#3
+Atrio
+La Minerva
+Figon
+Agustín#Barberás#Sevilla#8#2
+Atrio
+Figon
+Ferran#Falco#Barcelona#15#3
+Atrio
+Figon
+Torre de Sande
+Pablo#Iglesias#Madrid#12#3
+El Puchero
+Oquendo
+Casa Mijhaeli
+José#Carretero Doménech#Pamplona#22#3
+El Puchero
+Casa Mijhaeli
+San Juan
+Emma#García#Vitoria#2#4
+Atrio
+Casa Mijhaeli
+San Juan
+Hornos 25
+Nuria#Roca#Castellon#4#5
+Atrio
+Casa Mijhaeli
+San Juan
+Hornos 25
+La Minerva
+Patricia#Conde#Castellon#4#5
+Atrio
+Casa Mijhaeli
+San Juan
+Hornos 25
+La Minerva
+Sara#Carbonero#Almeria#9#5
+Atrio
+Casa Mijhaeli
+San Juan
+Hornos 25
+La Minerva
+Ana#Morgade#León#6#5
+Atrio
+Casa Mijhaeli
+San Juan
+Hornos 25
+La Minerva
+Cristina#Pedroche#Jaén#4#5
+Atrio
+Casa Mijhaeli
+San Juan
+Hornos 25
+La Minerva
+Beatriz#Montañez#Burgos#8#5
+Oquendo
+Casa Mijhaeli
+San Juan
+Hornos 25
+La Minerva
+Usun#Yoon#Madrid#2#1
+Atrio
+Pilar#Rubio#Madrid#2#1
+Figon
+José María#Carrascal#Toledo#2#1
+La Minerva
+Kiko#Rivera#Malaga#3#2
+El Puchero
+El Paladar de Felisa
+José#Mota#Segovia#13#3
+El Puchero
+El Paladar de Felisa
+Hornos 25
+Cristina#Tarrega#Gerona#30#4
+El Puchero
+El Paladar de Felisa
+Hornos 25
+El Raco de Sanguino
+Arturo#Valls#Barcelona#25#3
+La Tahona
+Atrio
+Hornos 25
+Matias#Prats#Barcelona#10#3
+La Tahona
+Atrio
+Hornos 25
+Roberto#Brasero#Salamanca#5#3
+La Tahona
+Atrio
+Hornos 25
+Mercedes#Milá#Barcelona#12#3
+La Tahona
+Atrio
+Oquendo
+Nieves#Herrero#Malaga#8#3
+La Minerva
+Atrio
+Hornos 25
+Jaime#Cantizano#Malaga#8#3
+La Minerva
+Atrio
+Hornos 25
+Karlos#Arguiñano#Bilbao#10#3
+San Juan
+Atrio
+Hornos 25
+Ramón#Arangüena#Bilbao#10#3
+San Juan
+Atrio
+Hornos 25
+Anabel#Alonso#Bilbao#20#3
+San Juan
+Palacio de los Golfines
+Hornos 25
+Jesús#Quintero#Cordoba#9#1
+San Juan
+Jordi#Evole#Barcelona#4#2
+San Juan
+Figon
+Pedro#Sánchez#Madrid#4#3
+San Juan
+Atrio
+Figon
+Mónica#López#Madrid#6#3
+Figon
+San Juan
+La Minerva
+Jorge Javier#Vázquez#Madrid#6#4
+La Cacharreria
+Palacio de los Golfines
+La Minerva
+San Juan
+Ana#Pastor#Salamanca#8#4
+La Cacharreria
+La Minerva
+San Juan
+Casa Mijhaeli
+María#Escario#Valladolid#10#4
+El Raco de Sanguino
+La Cacharreria
+La Minerva
+Casa Mijhaeli
+Juan#Echanove#Madrid#10#4
+El Raco de Sanguino
+La Cacharreria
+La Minerva
+Casa Mijhaeli
+Cristobal#Montoro#Burgos#10#3
+Atrio
+Figon
+San Juan
+Amancio#Ortega#Vigo#20#3
+Atrio
+Figon
+San Juan
+Rosa#Díez#Bilbao#2#3
+La Minerva
+El Paladar de Felisa
+San Juan
+Iker#Casillas#Madrid#2#3
+Oquendo
+El Paladar de Felisa
+Casa Mihaeli
+Javier#Bardén#Baleares#3#3
+El Raco de Sanguino
+El Paladar de Felisa
+San Juan
+Pedro#Almodovar#Ciudad Real#13#2
+El Raco de Sanguino
+Casa Mijhaeli
+Ferrán#Adriá#Barcelona#2#1
+Atrio
+Joan#Roca#Gerona#2#1
+Atrio
+Tania#Sánchez#Madrid#2#1
+Figon
+Boris#Izaguirre#Madrid#3#1
+San Juan
+Carmen#Machi#Madrid#6#2
+Figon
+La Minerva
+Cristobal#Montoro#Jaen#8#2
+La Cacharreria
+La Minerva
+Ouka#Leele#Madrid#18#4
+Casa Mijhaeli
+La Minerva
+San Juan
+La Tahona
+Lorenzo#Caprile#Madrid#11#4
+La Tahona
+La Minerva
+San Juan
+Figon
+Gabino#Diego#Madrid#7#4
+La Tahona
+Figon
+Atrio
+San Juan
+Rafael#Amargo#Granada#12#4
+Torre de Sande
+El Raco de Sanguino
+Hornos 25
+San Juan
+Cándido#Méndez#Badajoz#5#4
+El Puchero
+Casa Mijhaeli
+Hornos 25
+San Juan
+Román#Calavera Calva#Badajoz#5#4
+El Puchero
+Casa Mijhaeli
+Hornos 25
+Palacio de los Golfines
+José#Mira Iborra#Badajoz#4#3
+Casa Mijhaeli
+Hornos 25
+Palacio de los Golfines
+Manuel#Esparrago Triguero#Badajoz#8#3
+Casa Mijhaeli
+Hornos 25
+San Juan
+Isolina#Gato Sardina#Toledo#6#3
+San Juan
+La Minerva
+La Cacharreria
+Dani#Rovira#Sevilla#26#2
+Palacio de los Golfines
+El Puchero
+Nerea#Barros#Cordoba#10#3
+Palacio de los Golfines
+Atrio
+Figon
+Raúl#Arévalo#Toledo#5#4
+Figon
+Palacio de los Golfines
+Atrio
+San Juan
